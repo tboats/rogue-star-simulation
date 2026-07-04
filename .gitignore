@@ -29,5 +29,6 @@ build/
 .DS_Store
 
 # Simulation data and compiled binaries
-data/
+data/*
+!data/*.html
 src/integrator
